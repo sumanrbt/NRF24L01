@@ -5,6 +5,6 @@ Sometimes the transmitter in takes surge currents up to 0.2A!
 
 [![name2](https://user-images.githubusercontent.com/53753302/108990826-5f052000-76bd-11eb-9581-5a6d256ee316.png)
 
-Note:
+
 
 [![image1](https://user-images.githubusercontent.com/53753302/108993387-84475d80-76c0-11eb-9ae5-0c2feffe0ebb.png)
