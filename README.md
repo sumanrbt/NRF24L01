@@ -12,3 +12,4 @@ Sometimes the transmitter in takes surge currents up to 0.2A!
 Note:
 
 The power consumption of this module is just around 12mA during transmission, which is even lower than a single LED. The operating voltage of the module is from 1.9 to 3.6V, but the good thing is that the other pins tolerate 5V logic, so we can easily connect it to an Arduino without using any logic level converters.
+Due to yet not known reason, the NRF communication does not work with the arduino nano even thought the same code ran fine with arduino uno.
